@@ -1,17 +1,48 @@
-# Natural Gas Price Forecast
+# Natural Gas Forecasting & Storage Contract Pricing
 
-This notebook analyzes monthly natural gas prices and extrapolates the future price trend using seasonal averages.  
-Useful for understanding long-term storage contract pricing and commodity market trends.
+This project was completed as part of the **J.P. Morgan Quantitative Research Virtual Experience** on Forage.
 
-## Contents
-- `Nat_Gas.csv`: Monthly prices
-- `Forecast_Notebook.ipynb`: Code and visualizations
+It combines time series forecasting and financial modeling to support pricing strategies for natural gas storage contracts using historical and seasonal price data.
 
-## Technologies
-Python, Pandas, Matplotlib
+---
 
-## Forecast Method
-Based on average monthly seasonal trends with visualization and simple logic for extrapolation.
+## 🔍 Task 1: Natural Gas Price Forecasting
 
-## Author
-Mark-Daniels Tamakloe
+- **Visualized** monthly natural gas prices (Oct 2020 – Sep 2024)
+- **Detected** seasonal trends using monthly averages
+- **Forecasted** prices for the next 12 months
+- **Built** a function to estimate the price of gas for any given date
+
+---
+
+## 💼 Task 2: Storage Contract Pricing Model
+
+- **Developed** a reusable Python function to simulate gas injection, storage, and withdrawal
+- **Calculated** net profit by factoring in:
+  - Injection and withdrawal dates
+  - Market prices
+  - Storage duration and cost
+- **Validated** model with test cases
+- **Visualized** injection/withdrawal against historical prices and volume trends
+
+---
+
+## 📈 Visualizations Included
+- Monthly gas prices with forecast overlay
+- Injection and withdrawal events marked on price timeline
+- Storage volume changes over time
+
+---
+
+## 📁 Files
+- `JPMC_Project.ipynb`: Notebook with full implementation of Task 1 & 2
+- `Nat_Gas.csv`: Dataset used for price analysis
+
+---
+
+## 🚀 Skills Demonstrated
+- Python (Pandas, Matplotlib)
+- Time Series Analysis
+- Financial Modeling
+- Data Visualization
+- Quantitative Research
