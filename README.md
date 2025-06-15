@@ -46,3 +46,22 @@ It combines time series forecasting and financial modeling to support pricing st
 - Financial Modeling
 - Data Visualization
 - Quantitative Research
+
+---
+
+## Author
+
+**Mark-Daniels Tamakloe**  
+- MSc Computer Science – Washington University in St. Louis
+- MSc Mathematical Sciences – East Tennessee State University
+  
+[LinkedIn](https://www.linkedin.com/in/mark-daniels-tamakloe-934785a9)
+
+
+---
+
+## 🔗 Acknowledgement
+
+This project was built as part of the [JPMorgan Chase Quantitative Research Virtual Experience](https://www.theforage.com/virtual-internships/prototype/jpmorgan-chase/quantitative-research) on Forage.
+
+
